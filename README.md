@@ -40,3 +40,4 @@ A stylish, cross-platform desktop client for listening to music from a Jellyfin 
 <p>
   <img src="https://i.imgur.com/6dTb11U.png" width="400">
 </p>
+
